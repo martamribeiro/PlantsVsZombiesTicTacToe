@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3CD367CD-F439-5960-37A0-F71D6CBA9078}|JogoDoGalo\\JogoDoGalo.csproj|c:\\projects\\plantsvszombiestictactoe\\jogodogalo\\jogodogalo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD367CD-F439-5960-37A0-F71D6CBA9078}|JogoDoGalo\\JogoDoGalo.csproj|solutionrelative:jogodogalo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD367CD-F439-5960-37A0-F71D6CBA9078}|JogoDoGalo\\JogoDoGalo.csproj|c:\\projects\\plantsvszombiestictactoe\\jogodogalo\\jogodogalo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD367CD-F439-5960-37A0-F71D6CBA9078}|JogoDoGalo\\JogoDoGalo.csproj|solutionrelative:jogodogalo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CD367CD-F439-5960-37A0-F71D6CBA9078}|JogoDoGalo\\JogoDoGalo.csproj|c:\\projects\\plantsvszombiestictactoe\\jogodogalo\\jogodogalo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3CD367CD-F439-5960-37A0-F71D6CBA9078}|JogoDoGalo\\JogoDoGalo.csproj|solutionrelative:jogodogalo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CD367CD-F439-5960-37A0-F71D6CBA9078}|JogoDoGalo\\JogoDoGalo.csproj|c:\\projects\\plantsvszombiestictactoe\\jogodogalo\\jogodogalo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CD367CD-F439-5960-37A0-F71D6CBA9078}|JogoDoGalo\\JogoDoGalo.csproj|solutionrelative:jogodogalo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CD367CD-F439-5960-37A0-F71D6CBA9078}|JogoDoGalo\\JogoDoGalo.csproj|c:\\projects\\plantsvszombiestictactoe\\jogodogalo\\jogodogalo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD367CD-F439-5960-37A0-F71D6CBA9078}|JogoDoGalo\\JogoDoGalo.csproj|solutionrelative:jogodogalo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 442,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\Form1.cs",
-              "RelativeDocumentMoniker": "JogoDoGalo\\Form1.cs",
-              "ToolTip": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\Form1.cs",
-              "RelativeToolTip": "JogoDoGalo\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T16:03:46.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\Form1.cs",
               "RelativeDocumentMoniker": "JogoDoGalo\\Form1.cs",
               "ToolTip": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\Form1.cs [Design]",
               "RelativeToolTip": "JogoDoGalo\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T09:37:53.991Z",
+              "WhenOpened": "2026-10-29T16:41:45.29Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\Program.cs",
+              "RelativeDocumentMoniker": "JogoDoGalo\\Program.cs",
+              "ToolTip": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\Program.cs",
+              "RelativeToolTip": "JogoDoGalo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:49:24.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\Form1.cs",
+              "RelativeDocumentMoniker": "JogoDoGalo\\Form1.cs",
+              "ToolTip": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\Form1.cs",
+              "RelativeToolTip": "JogoDoGalo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:03:46.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "JogoDoGalo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\Form1.Designer.cs",
+              "RelativeToolTip": "JogoDoGalo\\Form1.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAvwF0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:49:27.348Z",
+              "EditorCaption": ""
             }
           ]
         }

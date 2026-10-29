@@ -43,7 +43,7 @@
             button4 = new Button();
             button3 = new Button();
             button0 = new Button();
-            label2 = new Label();
+            label = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             tlpPrincipal.SuspendLayout();
             tlpInterior.SuspendLayout();
@@ -90,7 +90,7 @@
             restart.Name = "restart";
             restart.Size = new Size(476, 64);
             restart.TabIndex = 11;
-            restart.Text = "RESTART";
+            restart.Text = "REINICIAR";
             restart.UseVisualStyleBackColor = false;
             // 
             // tlpInterior
@@ -99,7 +99,7 @@
             tlpInterior.ColumnCount = 1;
             tlpInterior.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 100F));
             tlpInterior.Controls.Add(tlpTabuleiro, 0, 1);
-            tlpInterior.Controls.Add(label2, 0, 0);
+            tlpInterior.Controls.Add(label, 0, 0);
             tlpInterior.Location = new Point(3, 203);
             tlpInterior.Name = "tlpInterior";
             tlpInterior.RowCount = 2;
@@ -137,6 +137,7 @@
             // 
             button8.BackColor = Color.FromArgb(128, 218, 5);
             button8.Dock = DockStyle.Fill;
+            button8.Font = new Font("Segoe UI", 50F);
             button8.Location = new Point(315, 149);
             button8.Name = "button8";
             button8.Size = new Size(152, 69);
@@ -147,6 +148,7 @@
             // 
             button7.BackColor = Color.FromArgb(128, 218, 5);
             button7.Dock = DockStyle.Fill;
+            button7.Font = new Font("Segoe UI", 50F);
             button7.Location = new Point(159, 149);
             button7.Name = "button7";
             button7.Size = new Size(150, 69);
@@ -157,6 +159,7 @@
             // 
             button5.BackColor = Color.FromArgb(128, 218, 5);
             button5.Dock = DockStyle.Fill;
+            button5.Font = new Font("Segoe UI", 50F);
             button5.Location = new Point(315, 76);
             button5.Name = "button5";
             button5.Size = new Size(152, 67);
@@ -167,6 +170,7 @@
             // 
             button6.BackColor = Color.FromArgb(128, 218, 5);
             button6.Dock = DockStyle.Fill;
+            button6.Font = new Font("Segoe UI", 50F);
             button6.Location = new Point(3, 149);
             button6.Name = "button6";
             button6.Size = new Size(150, 69);
@@ -177,6 +181,7 @@
             // 
             button1.BackColor = Color.FromArgb(128, 218, 5);
             button1.Dock = DockStyle.Fill;
+            button1.Font = new Font("Segoe UI", 50F);
             button1.Location = new Point(159, 3);
             button1.Name = "button1";
             button1.Size = new Size(150, 67);
@@ -187,6 +192,7 @@
             // 
             button2.BackColor = Color.FromArgb(128, 218, 5);
             button2.Dock = DockStyle.Fill;
+            button2.Font = new Font("Segoe UI", 50F);
             button2.Location = new Point(315, 3);
             button2.Name = "button2";
             button2.Size = new Size(152, 67);
@@ -197,6 +203,7 @@
             // 
             button4.BackColor = Color.FromArgb(128, 218, 5);
             button4.Dock = DockStyle.Fill;
+            button4.Font = new Font("Segoe UI", 50F);
             button4.Location = new Point(159, 76);
             button4.Name = "button4";
             button4.Size = new Size(150, 67);
@@ -207,6 +214,7 @@
             // 
             button3.BackColor = Color.FromArgb(128, 218, 5);
             button3.Dock = DockStyle.Fill;
+            button3.Font = new Font("Segoe UI", 50F);
             button3.Location = new Point(3, 76);
             button3.Name = "button3";
             button3.Size = new Size(150, 67);
@@ -217,25 +225,26 @@
             // 
             button0.BackColor = Color.FromArgb(128, 218, 5);
             button0.Dock = DockStyle.Fill;
+            button0.Font = new Font("Segoe UI", 50F);
             button0.Location = new Point(3, 3);
             button0.Name = "button0";
             button0.Size = new Size(150, 67);
             button0.TabIndex = 1;
             button0.UseVisualStyleBackColor = false;
             // 
-            // label2
+            // label
             // 
-            label2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            label2.AutoSize = true;
-            label2.BackColor = Color.SeaGreen;
-            label2.Font = new Font("Berlin Sans FB Demi", 19.8000011F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.ForeColor = Color.White;
-            label2.Location = new Point(3, 0);
-            label2.Name = "label2";
-            label2.Size = new Size(470, 50);
-            label2.TabIndex = 2;
-            label2.Text = "Press a button to start!";
-            label2.TextAlign = ContentAlignment.MiddleCenter;
+            label.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            label.AutoSize = true;
+            label.BackColor = Color.SeaGreen;
+            label.Font = new Font("Berlin Sans FB Demi", 19.8000011F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label.ForeColor = Color.White;
+            label.Location = new Point(3, 0);
+            label.Name = "label";
+            label.Size = new Size(470, 50);
+            label.TabIndex = 2;
+            label.Text = "Pressiona um botão para jogar!";
+            label.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
@@ -272,6 +281,6 @@
         private Button button4;
         private Button button3;
         private Button button0;
-        private Label label2;
+        private Label label;
     }
 }
