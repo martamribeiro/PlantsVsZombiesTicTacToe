@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\PSI_MartaRibeiro\\JogoDoGalo\\JogoDoGalo\\JogoDoGalo.csproj": {}
+    "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\JogoDoGalo.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\PSI_MartaRibeiro\\JogoDoGalo\\JogoDoGalo\\JogoDoGalo.csproj": {
+    "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\JogoDoGalo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\PSI_MartaRibeiro\\JogoDoGalo\\JogoDoGalo\\JogoDoGalo.csproj",
+        "projectUniqueName": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\JogoDoGalo.csproj",
         "projectName": "JogoDoGalo",
-        "projectPath": "C:\\Projects\\PSI_MartaRibeiro\\JogoDoGalo\\JogoDoGalo\\JogoDoGalo.csproj",
+        "projectPath": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\JogoDoGalo.csproj",
         "packagesPath": "C:\\Users\\marta\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\PSI_MartaRibeiro\\JogoDoGalo\\JogoDoGalo\\obj\\",
+        "outputPath": "C:\\Projects\\PlantsVsZombiesTicTacToe\\JogoDoGalo\\JogoDoGalo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
