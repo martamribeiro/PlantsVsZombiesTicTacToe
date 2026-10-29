@@ -1,0 +1,24 @@
+Form1.cs - Jogo do Galo
+------------------------------------
+variáveis no topo do script:
+- char[] tabuleiro
+- char jogadorAtual
+- bool jogoTerminado
+(ver linhas completas no enunciado)
+------------------------------------
+EfetuarJogada() vai ser chamado ao clicar em todos os botões
+- verificar se jogo nao terminou
+-- verificar jogador atual
+--- mudar texto do botao para jogador atual
+--- mudar o valor no array do tabuleiro
+--- atualizar de quem é a vez de jogar
+-- VerificarVitoria()
+------------------------------------
+VerificarVitoria() vai ser chamado no final de cada jogada
+- verificar se existe combinação vencedora no array do tabuleiro
+-- jogoTerminado passa a true
+-- mostrar jogador vencedor
+------------------------------------
+ReiniciarJogo() vai ser chamado ao clicar no botao Reiniciar
+- mudar os valores no array tabuleiro para vazios
+- atualizar jogador atual para X
